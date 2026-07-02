@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Manya Gupta
 
-<!--
-**ManyaGupta23/ManyaGupta23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA Graduate
+- Pursuing Diploma in Data Science
+- Interested in AI Training, Data Analytics, Generative AI and Sports Analytics
+  
+## Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Tableau
+- Pandas
+- NumPy
 
-Here are some ideas to get you started:
+  ## Projects
+  - Sales Dashboard
+  - Python Data Cleaning
+  - Cricket Analytics Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## Currently Learning
+    - Machine Learning
+    - AI Model Evaluation
+    - Prompt Engineering
+
+      ## Connect With me
+      -LinkedIn:
+      https://www.linkedin.com/in/manya-gupta-242925392
+      -Email:
+      manyagupta201@gmail.com
