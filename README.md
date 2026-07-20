@@ -1,4 +1,5 @@
 ## Hi 👋 I'm Manya Gupta
+Data Analyst
 
 ## About Me
 - BCA Graduate
@@ -25,7 +26,5 @@
     - Prompt Engineering
 
       ## Connect With me
-      -LinkedIn:
-      https://www.linkedin.com/in/manya-gupta-242925392
-      -Email:
-      manyagupta201@gmail.com
+      -LinkedIn: https://www.linkedin.com/in/manya-gupta-242925392
+      -Email: manyagupta201@gmail.com
